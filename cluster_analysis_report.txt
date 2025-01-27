@@ -1,0 +1,354 @@
+Customer Segmentation Analysis Report
+
+========================================
+
+
+Clustering Quality Metrics:
+
+Davies-Bouldin Index: 0.966
+Silhouette Score: 0.373
+Calinski-Harabasz Score: 66.133
+
+
+Cluster_0 Analysis:
+--------------------
+
+Size: 48 customers (24.00%)
+
+Key Characteristics:
+
+TransactionCount:
+  Mean: 5.69
+  Median: 5.50
+  Std: 1.65
+
+TotalSpend:
+  Mean: 4291.56
+  Median: 4131.92
+  Std: 1517.58
+
+AverageSpend:
+  Mean: 761.67
+  Median: 745.67
+  Std: 188.92
+
+SpendStd:
+  Mean: 540.52
+  Median: 540.95
+  Std: 144.08
+
+Region_Asia:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_Europe:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_North America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_South America:
+  Mean: 1.00
+  Median: 1.00
+  Std: 0.00
+
+
+
+Cluster_1 Analysis:
+--------------------
+
+Size: 21 customers (10.50%)
+
+Key Characteristics:
+
+TransactionCount:
+  Mean: 3.86
+  Median: 4.00
+  Std: 1.49
+
+TotalSpend:
+  Mean: 1807.97
+  Median: 1973.02
+  Std: 819.78
+
+AverageSpend:
+  Mean: 462.73
+  Median: 492.51
+  Std: 168.63
+
+SpendStd:
+  Mean: 303.89
+  Median: 334.55
+  Std: 163.34
+
+Region_Asia:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_Europe:
+  Mean: 1.00
+  Median: 1.00
+  Std: 0.00
+
+Region_North America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_South America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+
+
+Cluster_2 Analysis:
+--------------------
+
+Size: 44 customers (22.00%)
+
+Key Characteristics:
+
+TransactionCount:
+  Mean: 5.50
+  Median: 5.00
+  Std: 2.39
+
+TotalSpend:
+  Mean: 3449.65
+  Median: 3071.02
+  Std: 1605.14
+
+AverageSpend:
+  Mean: 657.02
+  Median: 636.44
+  Std: 206.94
+
+SpendStd:
+  Mean: 415.86
+  Median: 435.87
+  Std: 165.58
+
+Region_Asia:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_Europe:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_North America:
+  Mean: 1.00
+  Median: 1.00
+  Std: 0.00
+
+Region_South America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+
+
+Cluster_3 Analysis:
+--------------------
+
+Size: 15 customers (7.50%)
+
+Key Characteristics:
+
+TransactionCount:
+  Mean: 2.27
+  Median: 3.00
+  Std: 1.49
+
+TotalSpend:
+  Mean: 934.96
+  Median: 642.80
+  Std: 821.70
+
+AverageSpend:
+  Mean: 363.04
+  Median: 396.34
+  Std: 217.51
+
+SpendStd:
+  Mean: 106.62
+  Median: 35.41
+  Std: 137.71
+
+Region_Asia:
+  Mean: 0.13
+  Median: 0.00
+  Std: 0.35
+
+Region_Europe:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_North America:
+  Mean: 0.13
+  Median: 0.00
+  Std: 0.35
+
+Region_South America:
+  Mean: 0.73
+  Median: 1.00
+  Std: 0.46
+
+
+
+Cluster_4 Analysis:
+--------------------
+
+Size: 18 customers (9.00%)
+
+Key Characteristics:
+
+TransactionCount:
+  Mean: 7.50
+  Median: 8.00
+  Std: 1.34
+
+TotalSpend:
+  Mean: 5379.35
+  Median: 5485.45
+  Std: 1110.59
+
+AverageSpend:
+  Mean: 736.29
+  Median: 718.95
+  Std: 183.39
+
+SpendStd:
+  Mean: 494.84
+  Median: 495.98
+  Std: 114.31
+
+Region_Asia:
+  Mean: 1.00
+  Median: 1.00
+  Std: 0.00
+
+Region_Europe:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_North America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_South America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+
+
+Cluster_5 Analysis:
+--------------------
+
+Size: 25 customers (12.50%)
+
+Key Characteristics:
+
+TransactionCount:
+  Mean: 3.28
+  Median: 3.00
+  Std: 1.24
+
+TotalSpend:
+  Mean: 2204.36
+  Median: 2239.04
+  Std: 830.79
+
+AverageSpend:
+  Mean: 713.81
+  Median: 677.21
+  Std: 228.71
+
+SpendStd:
+  Mean: 400.67
+  Median: 423.05
+  Std: 259.64
+
+Region_Asia:
+  Mean: 1.00
+  Median: 1.00
+  Std: 0.00
+
+Region_Europe:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_North America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_South America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+
+
+Cluster_6 Analysis:
+--------------------
+
+Size: 29 customers (14.50%)
+
+Key Characteristics:
+
+TransactionCount:
+  Mean: 5.28
+  Median: 5.00
+  Std: 1.93
+
+TotalSpend:
+  Mean: 4423.70
+  Median: 4404.78
+  Std: 1676.98
+
+AverageSpend:
+  Mean: 865.44
+  Median: 833.91
+  Std: 205.42
+
+SpendStd:
+  Mean: 569.60
+  Median: 573.09
+  Std: 122.86
+
+Region_Asia:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_Europe:
+  Mean: 1.00
+  Median: 1.00
+  Std: 0.00
+
+Region_North America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+Region_South America:
+  Mean: 0.00
+  Median: 0.00
+  Std: 0.00
+
+
